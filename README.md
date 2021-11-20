@@ -1,6 +1,6 @@
 # DAS
 ## Presenting DASentimental.
-## A tool that retrieves Depression, Anxiety and Stress score
+### A tool that retrieves Depression, Anxiety and Stress score
 
 Simply
 <ul>
