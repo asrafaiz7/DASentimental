@@ -1,5 +1,5 @@
 # DASentimental
-### Presenting a tool that retrieves Depression, Anxiety and Stress score
+### Presenting a tool that retrieves Depression, Anxiety and Stress score from a text
 
 Simply
 <ul>
