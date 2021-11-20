@@ -11,9 +11,19 @@ Simply
 </ul>
 
 ```sh
- $ python main.py
+ $ python DASentimental.py
 ```
 
 When prompted to enter text, enter an emotionally rich text
+
+##### or
+
+Retrieve the DAS Score from a file (path_to_input_file.txt) simply by the following command
+
+```sh
+ $ python DASentimentalT.py path_to_input_file.txt path_to_output_file.txt
+```
+
+Your DAS results are in path_to_output_file.txt
 
 And Voila! you get the Depression,Anxiety and Stress score based on the emotional content of the text.
