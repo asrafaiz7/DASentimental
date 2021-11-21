@@ -6,7 +6,7 @@ Simply
 
 <ul>
 <li>Download the project</li>
-<li>Ensure your envirinment has all the packages mentioned in requirements.txt</li>
+<li>Ensure your environment has all the packages mentioned in requirements.txt</li>
 <li>Open terminal and run</li>
 </ul>
 
@@ -23,7 +23,5 @@ Retrieve the DAS Score from a file (path_to_input_file.txt) simply by the follow
 ```sh
  $ python DASentimentalT.py path_to_input_file.txt path_to_output_file.txt
 ```
-
-Your DAS results are in path_to_output_file.txt
 
 And Voila! you get the Depression,Anxiety and Stress score based on the emotional content of the text.
